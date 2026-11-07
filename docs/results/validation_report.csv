@@ -1,0 +1,6 @@
+design,status,model_units,shell_elements,solid_elements,rcforc_samples,rbdout_samples,glstat_samples,sleout_samples,final_time_s,failed_shell_count,final_total_energy_ratio,final_sliding_energy_J,final_eroded_internal_energy_J,note
+Baseline_5mm,OK,NMM,2560,800,1001,1001,1001,1001,0.0299996,0,1.0,-101.9785,0.0,Numerical reliability requires independent engineering judgment
+D12_Position15_3mm,OK,NMM,6988,800,1001,1001,1001,1001,0.0299998,4,1.00006,-124.241,32.767,Numerical reliability requires independent engineering judgment
+D16_Position15_3mm,OK,NMM,6986,800,1001,1001,1001,1001,0.0299998,4,1.00008,-139.6935,34.782199999999996,Numerical reliability requires independent engineering judgment
+D12_Position30_3mm,OK,NMM,6996,800,1001,1001,1001,1001,0.0299997,8,1.00001,-141.2385,80.5471,Numerical reliability requires independent engineering judgment
+D12_Position13_3mm,OK,NMM,6987,800,1001,1001,1001,1001,0.0299997,4,1.00005,-115.861,34.0,Numerical reliability requires independent engineering judgment

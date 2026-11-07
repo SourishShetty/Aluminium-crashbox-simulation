@@ -1,0 +1,6 @@
+design,reference,comparison_scope,raw_PCF_kN_change_percent,MA11_peak_kN_change_percent,contact_work_80mm_J_change_percent,max_impactor_travel_mm_change_percent,SEA_contact_80mm_kJ_kg_change_percent
+Baseline_5mm,D12_Position15_3mm,Unmatched 5 mm reference,7.367530745668183,-5.230647248451181,-11.071060531824283,5.34851100561069,-10.989358965309714
+D12_Position15_3mm,D12_Position15_3mm,3 mm variant; element deletion present,0.0,0.0,0.0,0.0,0.0
+D16_Position15_3mm,D12_Position15_3mm,3 mm variant; element deletion present,-3.7271979152379786,-1.1811511993696566,-3.612389516513348,4.4615882606819035,-3.333827285566404
+D12_Position30_3mm,D12_Position15_3mm,3 mm variant; element deletion present,0.4240387692588943,-12.596491700410494,-23.577093617103827,18.299525248165715,-23.577093617103817
+D12_Position13_3mm,D12_Position15_3mm,3 mm variant; element deletion present,-0.5446212225117764,2.8695374298038034,-0.974866730502344,-3.874622356495472,-0.9748667305023329

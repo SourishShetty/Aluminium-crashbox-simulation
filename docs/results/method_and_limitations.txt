@@ -1,0 +1,15 @@
+METHOD AND LIMITATIONS
+Common stroke: first forward passage to 80 mm; interpolated endpoint.
+Signed compression force = -SURFA interface 48 Fz; rigid impactor body 2.
+Motion interpolated onto force times within overlapping time support only.
+Contact work = integral(F dx)/1000 J; it is not pure plastic dissipation.
+Mean force = work/80 mm; CFE uses raw full-history peak; SEA uses box mass only.
+Masses and element counts come from d3hsp, not Script 1 line counts.
+The N-mm-s mass unit is tonne; multiply by 1000 for kg.
+11-sample moving average: fixed window, valid windows, no zero padding.
+This is exploratory smoothing, not a standards-based crash-test filter.
+Raw and smoothed peaks are reported separately. No design-specific filter tuning.
+The baseline is 5 mm and the modified designs are 3 mm: no matched-mesh causal claim.
+All modified designs contain element failures. No experimental validation or mesh convergence is demonstrated.
+Global near-unity energy ratio alone does not establish numerical reliability.
+No automatic winner is assigned. Review folding animations and numerical sensitivity.
