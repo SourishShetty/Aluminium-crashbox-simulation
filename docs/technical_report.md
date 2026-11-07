@@ -1,6 +1,6 @@
 # Axial impact of an aluminium crash box: simulation and design comparison
 
-Sourish Shetty · Technical report · 7 November 2026 · Documentation draft
+Sourish Shetty · Technical report · 7 November 2026 
 
 ## 1. Purpose and scope
 
